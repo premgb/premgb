@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @premgb
-- 👀 I’m interested in solving problems related to AI/ ML
+- 👋 Hi, I’m Prem
+- 👀 I’m interested in deriving actionable insights from any type of data
 - 📫 You can reach me at 1.618em(at)gmail(dot)com
 
 <!---
