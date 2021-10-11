@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prem
-- 👀 I’m interested in deriving actionable insights from any type of data
-- 📫 You can reach me at 1.618em(at)gmail(dot)com
+- 👀 I’m interested in deriving actionable insights from structured/ unstructured data
+- 📫 You can reach me at 1(dot)618em(at)gmail(dot)com
 
 <!---
 - 🌱 I’m currently learning ...
